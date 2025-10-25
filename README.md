@@ -20,12 +20,21 @@
 
 # Some ScreenShoots of my work
 
+# Docker Image, volumes, Builds of application
+
 <img width="2880" height="785" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/ac73d826-c5ce-484f-85a3-3c6f1c561438" />
 
-# Docker Image of application
-<img width="2880" height="411" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/410b2704-c05f-49aa-8645-aaa9dd15f2c9" />
+![alt text](<Screenshot (13).png>)
 
-# CI/CD in Jenkins, Creating pipline to AWS and generated Trviy report to see Vulnerabilits and Image in AWS ECR
+![alt text](<Screenshot (14).png>)
+
+![alt text](<Screenshot (15).png>)
+
+
+
+# CI/CD in Jenkins, Creating pipline to AWS and Generated AquaTrviy report to see Vulnerabilits and store image of the application in AWS ECR after build comelete in Jenkins
+
+<img width="2880" height="411" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/410b2704-c05f-49aa-8645-aaa9dd15f2c9" />
 
 <img width="2880" height="411" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/403732f3-d1c5-4cfc-99cb-59de78b185b8" />
 
@@ -34,6 +43,7 @@
 <img width="2070" height="989" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a2a27b63-0b78-40ec-a745-1ad2d1bdc055" />
 
 <img width="2880" height="1194" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/62c83d2e-d28b-481d-af4e-468896862e21" />
+
 
 # Running LLMOPS pipline and Deployed Application in AWSApp Runner
 
