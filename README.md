@@ -35,10 +35,11 @@
 
 <img width="2880" height="1194" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/62c83d2e-d28b-481d-af4e-468896862e21" />
 
-# Deployment of Application in AWSApp Runner
+# Running LLMOPS pipline and Deployed Application in AWSApp Runner
 
 <img width="2853" height="1236" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/b4c769ed-16fc-4f89-aeb8-464da48cfb8b" />
 
 <img width="2783" height="1237" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/45027902-24b8-4e00-9fde-abc3d14339be" />
+
 
 ![alt text](<Screenshot (12)-1.png>)
