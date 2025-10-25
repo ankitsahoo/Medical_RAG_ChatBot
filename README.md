@@ -15,10 +15,10 @@
 10) **AWS ECR and AWS Runner** - Deployed and application on cloud with ease and realiabilty.
 11) **GitHub** - It work as Source code management for my project.
 
-# Workflow
+# Complete Workflow of LLMOPS RAG_medical_Bot
 <img width="1861" height="1110" alt="Medical+RAG+Workflow" src="https://github.com/user-attachments/assets/49d7bb80-914a-4ece-9ab5-7fb962675862" />
 
-# Some ScreenShoots of my work
+# Some ScreenShots of my work
 
 # Docker Image, volumes, Builds of application
 
