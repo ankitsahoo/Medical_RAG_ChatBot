@@ -1,23 +1,10 @@
-# ---- Core LangChain Framework ----
-langchain==0.3.7
-langchain-core==0.3.15
-langchain-community==0.3.3
-langchain-huggingface==0.1.2
-
-# ---- Vector Store & Embeddings ----
-faiss-cpu==1.12.0
-sentence-transformers==3.2.1
-
-# ---- Document Processing ----
-pypdf==5.1.0
-
-# ---- Hugging Face Hub ----
-huggingface-hub==0.26.2
-
-# ---- Web App Framework ----
-flask==3.1.0
-
-# ---- Environment Variables ----
-python-dotenv==1.0.1
-
-numpy==1.27.1
+langchain
+langchain_community
+langchain_huggingface
+langchain_groq
+faiss-cpu
+pypdf
+huggingface_hub
+flask
+python-dotenv
+sentence-transformers
