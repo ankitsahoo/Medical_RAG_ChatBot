@@ -13,8 +13,14 @@ pipeline {
             steps {
                 script {
                     echo 'Cloning GitHub repo to Jenkins...'
-                    checkout scmGit(branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[credentialsId: 'github_token', url: 'https://github.com/ankitsahoo/Medical_RAG_ChatBot.git']])
-                
+                    checkout scmGit(
+                        branches: [[name: '*/main']],
+                        extensions: [],
+                        userRemoteConfigs: [[
+                            credentialsId: 'github_token',
+                            url: 'https://github.com/ankitsahoo/Medical_RAG_ChatBot.git'
+                        ]]
+                    )
                 }
             }
         }
@@ -41,7 +47,7 @@ pipeline {
         //     }
         // }
 
-        //  stage('Deploy to AWS App Runner') {
+        // stage('Deploy to AWS App Runner') {
         //     steps {
         //         withCredentials([[$class: 'AmazonWebServicesCredentialsBinding', credentialsId: 'aws-token']]) {
         //             script {
@@ -59,7 +65,7 @@ pipeline {
         //                 """
         //             }
         //         }
-            }
-        }
+        //     }
+        // }
     }
 }
