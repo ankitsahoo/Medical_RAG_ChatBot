@@ -1,0 +1,16 @@
+2025-10-25 20:03:57,787 - INFO - Making the vectorstore....
+2025-10-25 20:03:57,787 - INFO - Loading files from data/
+2025-10-25 20:04:09,567 - INFO - Sucesfully fetched 759 documents
+2025-10-25 20:04:09,567 - INFO - Splitting 759 documents into chunks
+2025-10-25 20:04:09,710 - INFO - Generated 7080 text chunks
+2025-10-25 20:04:09,710 - INFO - Generating your new vectorstore
+2025-10-25 20:04:09,710 - INFO - Intializing our Huggingface embedding model
+2025-10-25 20:04:09,711 - INFO - Use pytorch device_name: cpu
+2025-10-25 20:04:09,712 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-25 20:04:12,579 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-10-25 20:04:18,987 - INFO - Huggingface embedding model loaded sucesfully....
+2025-10-25 20:05:51,580 - INFO - Loading faiss with AVX2 support.
+2025-10-25 20:05:53,733 - INFO - Successfully loaded faiss with AVX2 support.
+2025-10-25 20:05:53,922 - INFO - Saving vectorstoree
+2025-10-25 20:05:53,961 - INFO - Vectostore saved sucessfully...
+2025-10-25 20:05:53,964 - INFO - Vectorstore created sucessfully....

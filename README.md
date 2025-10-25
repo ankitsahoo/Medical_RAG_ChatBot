@@ -3,10 +3,10 @@
 # Medical_RAG_ChatBot using Jenkins, Aqua Trivy, AWS, FIASS, Langchain, Flask, HTML/CSS
 
 # Tech Stack Used
-1) **Hugging Face**- LLM and Embedding model (Mistral AI)
+1) **Hugging Face** - LLM and Embedding model (Mistral AI).
 2) **FIASS** - Local Vector store for storing my embeddings.
 3) **Langchain** - Generative AI Framework to interact with LLM.
-4) **PyPDF**- Library for reading contents of a PDF file.
+4) **PyPDF** - Library for reading contents of a PDF file.
 5) **Flask** - Build my Backend APIs for handling user request.
 6) **HTML/CSS** - Made my UI and Frontend for the app.
 7) **Docker** - Conternized my app during deployment.
